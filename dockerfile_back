@@ -9,7 +9,7 @@ FROM rhscl/s2i-core-rhel7:1
 #  * $HTTPD_LOG_TO_VOLUME (optional) - When set, httpd will log into /var/log/httpd24
 
 ENV HTTPD_VERSION=2.4
-
+fege
 ENV SUMMARY="Platform for running Apache httpd $HTTPD_VERSION or building httpd-based application" \
     DESCRIPTION="Apache httpd $HTTPD_VERSION available as container, is a powerful, efficient, \
 and extensible web server. Apache supports a variety of features, many implemented as compiled modules \
