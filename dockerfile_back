@@ -1,4 +1,4 @@
-FROM rhscl/s2i-core-rhel7:1
+gggFROM rhscl/s2i-core-rhel7:1
 
 # Apache HTTP Server image.
 #
